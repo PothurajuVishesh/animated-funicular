@@ -1,2 +1,2 @@
-# animated-funicular
+# recipe-app-api
 Recipe API project
